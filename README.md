@@ -1,7 +1,7 @@
 # Sales-Data-Analysis
 
 ## Overview
-This project analyzes an annual sales dataset with 15,000+ transaction records, exploring seasonal trends, product performance, and target demographics. The analysis provides actionable insights to optimize sales strategies, inventory management, and marketing campaigns.
+This project analyzes an annual sales dataset with 15,000 transaction records, exploring seasonal trends, product performance, and target demographics. The analysis provides actionable insights to optimize sales strategies, inventory management, and marketing campaigns.
 
 ## Data Source
 • Dataset: Kaggle sales data (15,000+ records)
